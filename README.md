@@ -11,7 +11,7 @@ choco install less gzip
 
 ## Setup
 1. Put `man.bat` somewhere in you PATH.
-2. Set `PATH_TO_FOLDER_WITH_MAN_DIRS` and PATH_TO_FOLDER_WITH_GZ_MAN_DIRS to the location(s) of your Manpages.
+2. Set PATH_TO_FOLDER_WITH_MAN_DIRS and PATH_TO_FOLDER_WITH_GZ_MAN_DIRS to the location(s) of your Manpages.
 3. Set PATH_TO_MANDOC to the full PATH to your mandoc.exe
 
 **_NOTE:_** You will have to setup/install your manpages manually. (i.e. Copy them to your man_root/man_gz_root folder(s))
