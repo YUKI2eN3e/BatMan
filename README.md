@@ -2,7 +2,7 @@
 A `bat` script to simulate a basic version of `man` for Windows.
 
 ## Requirments
-* `groff` or `mandoc` found in the `groff` package [here](https://sourceforge.net/projects/ezwinports/files/)
+* [`groff`](https://sourceforge.net/projects/ezwinports/files/) or [`mandoc`](https://embedeo.org/ws/doc/man_windows/)
 * `less`
 * `gzip`
 ```bash
