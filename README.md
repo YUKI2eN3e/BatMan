@@ -16,3 +16,7 @@ choco install less gzip
 4. Set PATH_TO_GROFF/PATH_TO_MANDOC to the full PATH to your `groff.exe` or `mandoc.exe`
 
 **_NOTE:_** You will have to setup/install your manpages manually. (i.e. Copy them to your man_root/man_gz_root folder(s))
+
+**_NOTE2:_** The provided manpages are pandoc conversions of markdown files found [here](https://github.com/MicrosoftDocs/windowsserverdocs/tree/main/WindowsServerDocs/administration/windows-commands) for the commands listed by running `help` on Windows. 
+
+**_NOTE3:_** (Tables display better with the `mandoc` version of the script.)
