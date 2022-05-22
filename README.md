@@ -8,6 +8,7 @@ A `bat` script to simulate a basic version of `man` for Windows.
 ```bash
 choco install less gzip
 ```
+* [`ansicon`](https://github.com/adoxa/ansicon) *(Only on older versions of Windows, Windows 10 can handle colours fine without it)*
 
 ## Setup
 1. Select the version you want and rename it `man.bat`
